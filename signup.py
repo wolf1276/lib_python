@@ -1,7 +1,9 @@
 # GUI Test
 from tkinter import *
 root = Tk()
-root.geometry("500x300")
-root.title("HVM Library - Sign Up")
+root.geometry("500x500")
+root.title("HVM Library - Sign in")
+root.configure(bg='#808080')
+root.resizable(False,False)
 
-root.mainloop()
+img = PhotoImage(file= '')
