@@ -1,3 +1,2 @@
-print("boom")
-print("one shot")
-print("roman")
+a = "ram kumar"
+a.title()

@@ -1,0 +1,5 @@
+import mod1
+z = mod1.addition(2,5)
+print(z)
+
+

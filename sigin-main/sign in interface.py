@@ -18,7 +18,11 @@ frame=Frame(root,width=0,height=0,bg='#FF0000')
 frame.place(x=0,y=0)
 
 heading=Label(text='SIGN IN',fg="#000000",bg='white',font=('Poppins sans serif',22,))
-heading.place(x=65,y=55)
+heading.place(x=90,y=10)
+
+
+
+
 
 
 
